@@ -67,3 +67,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
 "# todo-app-react" 
+
+library to make asynchronus Rest calls using Promise for  
+### `npm add axios 
+
+formik is very popular form creation library
+### `npm add formik
+
+library to handle dates
+### `npm add moment
